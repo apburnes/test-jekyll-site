@@ -6,7 +6,7 @@ sidenav: false
 
 # Section heading (h1)
 
-The page heading communicates the main focus of the page. Make your page heading descriptive and keep it succinct.
+The page heading communicates the main focus of the page. Make your page heading descriptive and keep it succinct?
 
 We can also use variables in our pages. For example, this is the title variable: **{{page.title}}**
 
